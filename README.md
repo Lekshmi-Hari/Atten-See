@@ -3,13 +3,15 @@
 </p>
 
 # AttenSee
+
 ## Basic Details
+It detects distractions (like phone usage), tracks gaze/head pose, computes a focus score, and generates intelligent alerts — all running client-side for privacy and speed.
 
 ### Team Name: Tm_Neo
 
 ### Team Members
-- Member 1:Lekshmi Hari - NSS COLLEGE OF ENGINEERING PALAKKAD
-- Member 2:Anaswara Saligramathil - NSS COLLEGE OF ENGINEERING PALAKKAD
+Lekshmi Hari - NSS COLLEGE OF ENGINEERING PALAKKAD
+Anaswara Saligramathil - NSS COLLEGE OF ENGINEERING PALAKKAD
 
 ### Hosted Project Link
 [mention your project hosted link here]
@@ -134,9 +136,7 @@ cd server
 npm install
 npm run dev
 
-
 ```
-
 
 ## Project Documentation
 
@@ -175,15 +175,10 @@ Application Workflow:
 
 ---
 
-
-```
-
----
-
 ## Project Demo
 
 ### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
+https://drive.google.com/drive/folders/1q5lrEC0mlDsh5r2BHsuK8Au-Ck1f-TAG
 
 Demonstrates:
 
